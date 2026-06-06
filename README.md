@@ -2,16 +2,6 @@
 
 A multi-modal AI assistant built with **n8n**, **Google Gemini**, **OpenAI**, **Gmail API**, and **Google Calendar API** that enables users to interact through WhatsApp using text, voice, and images.
 
----
-
-## 🏗️ Architecture
-
-<p align="center">
-  <img src="images/architecture.png" alt="WhatsApp AI Assistant Architecture" width="100%">
-</p>
-
----
-
 ## 🚀 Features
 
 - 💬 WhatsApp Integration
